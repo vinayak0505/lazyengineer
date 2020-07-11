@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="BTechCollege">
+        <item>Vellore Institute Of Technology Vellore</item>
+        <item>Srm Institute Of Science And Technology Chennai</item>
+        <item>Lovely Professional University Phagwara</item>
+        <item>Indian Institute Of Technology Bombay</item>
+        <item>Indian Institute Of Space Science And Technology Thiruvananthapuram</item>
+        <item>Delhi Technological University Delhi</item>
+        <item>Maharaja Sayajirao University Of Baroda Vadodara</item>
+        <item>Indian Institute Of Technology Madras</item>
+        <item>Jamia Millia Islamia New Delhi</item>
+        <item>Institute Of Chemical Technology Mumbai</item>
+        <item>Indian Institute Of Engineering Science And Technology Shibpur</item>
+        <item>Jadavpur University Kolkata</item>
+        <item>Indian Institute Of Technology Delhi</item>
+        <item>Sardar Vallabhbhai National Institute Of Technology Surat</item>
+        <item>Reva University Bangalore</item>
+        <item>Punjab Engineering College Chandigarh</item>
+        <item>National Institute Of Technology Tiruchirappalli</item>
+        <item>Nirma University Ahmedabad</item>
+        <item>Motilal Nehru National Institute Of Technology Allahabad Prayagraj</item>
+        <item>Birla Institute Of Technology Mesra</item>
+        <item>Techno India University Kolkata</item>
+        <item>Chandigarh University Chandigarh</item>
+        <item>Indian Institute Of Technology Kharagpur</item>
+        <item>Manipal University Jaipur</item>
+        <item>Integral University Lucknow</item>
+        <item>Dr B R Ambedkar National Institute Of Technology Jalandhar</item>
+        <item>Birla Institute Of Technology And Science Pilani</item>
+        <item>National Institute Of Technology Karnataka Surathkal</item>
+        <item>Sathyabama Institute Of Science And Technology Chennai</item>
+        <item>Indian Institute Of Technology Roorkee</item>
+        <item>Indraprastha Institute Of Information Technology Delhi</item>
+        <item>Visvesvaraya National Institute Of Technology Nagpur</item>
+        <item>Harcourt Butler Technical University Kanpur</item>
+        <item>Lnm Institute Of Information Technology Jaipur</item>
+        <item>National Institute Of Technology Warangal</item>
+        <item>Indian Institute Of Technology Kanpur</item>
+        <item>Hindustan Institute Of Technology And Science Chennai</item>
+        <item>Presidency University Bangalore</item>
+        <item>Jamia Hamdard New Delhi</item>
+        <item>International Institute Of Information Technology Hyderabad</item>
+        <item>Jss Science And Technology University Mysuru</item>
+        <item>Indian Institute Of Technology Banaras Hindu University Varanasi</item>
+        <item>Karunya Institute Of Technology And Sciences Coimbatore</item>
+        <item>Malaviya National Institute Of Technology Jaipur</item>
+        <item>Kalinga Institute Of Industrial Technology Bhubaneswar</item>
+        <item>Indian Institute Of Technology Hyderabad</item>
+        <item>Dei</item>
+        <item>Dhirubhai Ambani Institute Of Information And Communication Technology Gandhinagar</item>
+        <item>Ms Ramaiah University Of Applied Sciences Bangalore</item>
+        <item>Sant Longowal Institute Of Engineering And Technology Longowal</item>
+        <item>Netaji Subhas University Of Technology New Delhi</item>
+        <item>Pes University Bangalore</item>
+        <item>National Institute Of Technology Rourkela</item>
+        <item>Tezpur University Tezpur</item>
+        <item>National Institute Of Technology Calicut</item>
+        <item>Giet University Gunupur</item>
+        <item>Indian Institute Of Technology Gandhinagar</item>
+        <item>Shiv Nadar University Greater Noida</item>
+        <item>Christ University Bangalore</item>
+        <item>Bs Abdur Rahman Institute Of Science And Technology Chennai</item>
+        <item>Indian Institute Of Information Technology Allahabad</item>
+        <item>Sharda University Greater Noida</item>
+        <item>Vivekananda Global University Jaipur</item>
+        <item>Koneru Lakshmaiah Education Foundation Guntur</item>
+        <item>Indian Institute Of Technology Bhubaneswar</item>
+        <item>Banasthali Vidyapith Banasthali</item>
+        <item>Cept University Ahmedabad</item>
+        <item>National Institute Of Technology Raipur</item>
+        <item>Cmr University Bangalore</item>
+        <item>Thapar Institute Of Engineering And Technology Patiala</item>
+        <item>Dayananda Sagar University Bangalore</item>
+        <item>Graphic Era University Dehradun</item>
+        <item>Indira Gandhi Delhi Technical University For Women Delhi</item>
+        <item>National Institute Of Technology Delhi</item>
+        <item>Guru Gobind Singh Indraprastha University Delhi</item>
+        <item>Shanmugha Arts Science Technology Research And Academy Thanjavur</item>
+        <item>Bennett University Greater Noida</item>
+        <item>Kle Technological University Hubballi</item>
+        <item>Guru Ghasidas Vishwavidyalaya Bilaspur</item>
+        <item>Madan Mohan Malaviya University Of Technology Gorakhpur</item>
+        <item>Maulana Azad National Institute Of Technology Bhopal</item>
+        <item>Indian Institute Of Technology Patna</item>
+        <item>Dit University Dehradun</item>
+        <item>National Institute Of Technology Puducherry Karaikal</item>
+        <item>National Institute Of Technology Goa</item>
+        <item>Shri Mata Vaishno Devi University Katra</item>
+        <item>National Institute Of Technology Patna</item>
+        <item>Dr Mgr Educational And Research Institute Chennai</item>
+        <item>Sandip University Nashik</item>
+        <item>Jaypee Institute Of Information Technology Noida</item>
+        <item>National Institute Of Technology Andhra Pradesh</item>
+        <item>Institute Of Infrastructure Technology Research And Management Ahmedabad</item>
+        <item>Indian Institute Of Technology Indian School Of Mines Dhanbad</item>
+        <item>Indian Institute Of Technology Guwahati</item>
+        <item>Indian Institute Of Technology Ropar</item>
+        <item>National Institute Of Technology Kurukshetra</item>
+        <item>National Institute Of Technology Uttarakhand</item>
+        <item>The Northcap University Gurgaon</item>
+        <item>National Institute Of Technology Durgapur</item>
+        <item>Srm University Delhi Ncr Sonepat</item>
+        <item>Guru Jambheshwar University Of Science And Technology Hisar</item>
+        <item>Indian Institute Of Information Technology Design And Manufacturing Kancheepuram</item>
+        <item>Bangalore University Bangalore</item>
+        <item>National Institute Of Technology Hamirpur</item>
+        <item>Punjab Agricultural University Ludhiana</item>
+        <item>Vel Tech Rangarajan Dr Sagunthala R And D Institute Of Science And Technology Chennai</item>
+        <item>Gla University Mathura</item>
+        <item>Dharmsinh Desai University Nadiad</item>
+        <item>Vignans Foundation For Science Technology And Research Guntur</item>
+        <item>Nims University Jaipur</item>
+        <item>Ajeenkya Dy Patil University Pune</item>
+        <item>National Institute Of Technology Jamshedpur</item>
+        <item>Indian Institute Of Technology Tirupati</item>
+        <item>Maulana Azad National Urdu University Hyderabad</item>
+        <item>Annamalai University Annamalai Nagar</item>
+        <item>Amity University Noida</item>
+        <item>Galgotias University Greater Noida</item>
+        <item>Veer Surendra Sai University Of Technology Sambalpur</item>
+        <item>Bharath Institute Of Higher Education And Research Chennai</item>
+        <item>Niit University Neemrana</item>
+        <item>Itm University Gwalior</item>
+        <item>Kalinga University Raipur</item>
+        <item>Gautam Buddha University Greater Noida</item>
+        <item>Apeejay Stya University Sohna</item>
+        <item>Jaipur National University Jaipur</item>
+        <item>Punjabi University Patiala</item>
+        <item>Atal Bihari Vajpayee Indian Institute Of Information Technology And Management Gwalior</item>
+        <item>Ct University Ludhiana</item>
+        <item>Vels Institute Of Science Technology And Advanced Studies Chennai</item>
+        <item>Jecrc University Jaipur</item>
+        <item>Deen Bandhu Chhotu Ram University Of Science And Technology Murthal</item>
+        <item>Bhagat Phool Singh Mahila Vishwavidyalaya Khanpur Kalan</item>
+        <item>Bml Munjal University Gurgaon</item>
+        <item>Siksha O Anusandhan Bhubaneswar</item>
+        <item>Islamic University Of Science And Technology Pulwama</item>
+        <item>Rabindranath Tagore University Raisen</item>
+        <item>Op Jindal University Raigarh</item>
+        <item>Bundelkhand University Jhansi</item>
+        <item>Indian Institute Of Information Technology Design And Manufacturing Jabalpur</item>
+        <item>Amity University Kolkata</item>
+        <item>Guru Nanak Dev University Amritsar</item>
+        <item>Babu Banarasi Das University Lucknow</item>
+        <item>Aliah University Kolkata</item>
+        <item>Chaudhary Charan Singh Haryana Agricultural University Hisar</item>
+        <item>Sndt Womens University Mumbai</item>
+        <item>Dr Babasaheb Ambedkar Technological University Lonere</item>
+        <item>Karpagam Academy Of Higher Education Coimbatore</item>
+        <item>Indian Institute Of Technology Indore</item>
+        <item>National Institute Of Technology Srinagar</item>
+        <item>National Institute Of Technology Agartala</item>
+        <item>Kalasalingam Academy Of Research And Education Virudhunagar</item>
+        <item>Sam Higginbottom Institute Of Agriculture Technology And Science Allahabad</item>
+        <item>National Institute Of Technology Silchar</item>
+        <item>National Institute Of Food Technology Entrepreneurship And Management Sonepat</item>
+        <item>Indian Institute Of Technology Palakkad</item>
+        <item>Jaypee University Of Information Technology Solan</item>
+        <item>North Eastern Regional Institute Of Science And Technology Nirjuli</item>
+        <item>Medi Caps University Indore</item>
+        <item>Tamil Nadu Agricultural University Coimbatore</item>
+        <item>Indian Institute Of Information Technology Tiruchirappalli</item>
+        <item>Poornima University Jaipur</item>
+        <item>Assam Down Town University Guwahati</item>
+        <item>Pdm University Bahadurgarh</item>
+        <item>Ahmedabad University Ahmedabad</item>
+        <item>Noida International University Greater Noida</item>
+        <item>Sir Padampat Singhania University Udaipur</item>
+        <item>Central University Of Karnataka Gulbarga</item>
+        <item>Gurukula Kangri Vishwavidyalaya Haridwar</item>
+        <item>Ik Gujral Punjab Technical University Jalandhar</item>
+        <item>Mizoram University Aizawl</item>
+        <item>Jk Lakshmipat University Jaipur</item>
+        <item>Indian Institute Of Information Technology Vadodara</item>
+        <item>Indian Institute Of Information Technology Pune</item>
+        <item>Sanjay Ghodawat University Kolhapur</item>
+        <item>Indian Institute Of Information Technology Kalyani</item>
+        <item>Dr Shyama Prasad Mukherjee International Institute Of Information Technology Naya Raipur</item>
+        <item>Indian Institute Of Information Technology Sri City</item>
+        <item>National Institute Of Technology Sikkim</item>
+        <item>National Dairy Research Institute Karnal</item>
+        <item>Amity University Jaipur</item>
+        <item>Shri Vaishnav Vidyapeeth Vishwavidyalaya Indore</item>
+        <item>Acharya Ng Ranga Agricultural University Guntur</item>
+        <item>Monad University Hapur</item>
+        <item>Dav University Jalandhar</item>
+        <item>Bhagwant University Ajmer</item>
+        <item>Shivaji University Kolhapur</item>
+        <item>Manav Rachna University Faridabad</item>
+        <item>Gna University Phagwara</item>
+        <item>Himalayan University Itanagar</item>
+        <item>Amity University Mumbai</item>
+        <item>Indian Institute Of Technology Jodhpur</item>
+        <item>National Institute Of Technology Meghalaya</item>
+        <item>Hemwati Nandan Bahuguna Garhwal University Pauri Garhwal</item>
+        <item>University Of Lucknow Lucknow</item>
+        <item>Indian Maritime University Chennai</item>
+        <item>Andhra University Visakhapatnam</item>
+        <item>Marwadi University Rajkot</item>
+        <item>Indian Institute Of Information Technology Design And Manufacturing Kurnool</item>
+        <item>Chhatrapati Shahu Ji Maharaj University Kanpur</item>
+        <item>Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya Kanchipuram</item>
+        <item>Indian Institute Of Information Technology Dharwad</item>
+        <item>Mody University Of Science And Technology Lakshmangarh</item>
+        <item>National Institute Of Technology Manipur</item>
+        <item>Mewar University Chittorgarh</item>
+        <item>Lingayas Vidyapeeth Faridabad</item>
+        <item>Kurukshetra University Kurukshetra</item>
+        <item>Adamas University Kolkata</item>
+        <item>Indian Institute Of Information Technology Kota</item>
+        <item>Iftm University Moradabad</item>
+        <item>Dr Ram Manohar Lohia Avadh University Faizabad</item>
+        <item>Amity University Gurgaon</item>
+        <item>Baba Ghulam Shah Badshah University Jammu</item>
+        <item>Periyar Maniammai Institute Of Science And Technology Thanjavur</item>
+        <item>National Institute Of Technology Arunachal Pradesh</item>
+        <item>Dibrugarh University Dibrugarh</item>
+        <item>Indian Institute Of Technology Bhilai</item>
+        <item>University Of Calcutta Kolkata</item>
+        <item>Jaypee University Of Engineering And Technology Guna</item>
+        <item>Shree Guru Gobind Singh Tricentenary University Gurgaon</item>
+        <item>Sri Ramachandra Institute Of Higher Education And Research Chennai</item>
+        <item>University Of Kashmir Srinagar</item>
+        <item>Vikram University Ujjain</item>
+        <item>University Of Allahabad Allahabad</item>
+        <item>Navrachana University Vadodara</item>
+        <item>Rajiv Gandhi Institute Of Petroleum Technology Amethi</item>
+        <item>St Peters University Chennai</item>
+        <item>Indian Institute Of Technology Mandi</item>
+        <item>Dr Shakuntala Misra National Rehabilitation University Lucknow</item>
+        <item>Chitkara University Himachal Pradesh</item>
+        <item>Dr Cv Raman University Bilaspur</item>
+        <item>North Eastern Hill University Shillong</item>
+        <item>Guru Kashi University Talwandi Sabo</item>
+        <item>Maulana Abul Kalam Azad University Of Technology Kolkata</item>
+        <item>Aks University Satna</item>
+        <item>Sunrise University Alwar</item>
+        <item>Dr Br Ambedkar University Agra</item>
+        <item>Jagannath University Jaipur</item>
+        <item>National Institute Of Technology Mizoram</item>
+        <item>Dr Babasaheb Ambedkar Marathwada University Aurangabad</item>
+        <item>Visvesvaraya Technological University Belagavi</item>
+        <item>Graphic Era Hill University Dehradun</item>
+        <item>University Of Kalyani Kalyani</item>
+        <item>National Institute Of Technology Nagaland</item>
+        <item>Shoolini University Of Biotechnology And Management Sciences Solan</item>
+        <item>Rai University Ahmedabad</item>
+        <item>Ponnaiyah Ramajayam Institute Of Science And Technology Thanjavur</item>
+        <item>Makhanlal Chaturvedi Rashtriya Patrakarita Vishwavidyalaya Bhopal</item>
+        <item>Itm Vocational University Vadodara</item>
+        <item>Adikavi Nannaya University Rajahmundry</item>
+        <item>Mahatma Jyotiba Phule Rohilkhand University Bareilly</item>
+        <item>Jawaharlal Nehru Architecture And Fine Arts University Hyderabad</item>
+        <item>The Assam Kaziranga University Jorhat</item>
+        <item>Academy Of Maritime Education And Training Kanathur</item>
+        <item>Kr Mangalam University Gurgaon</item>
+        <item>Avinashilingam Institute For Home Science And Higher Education For Women Coimbatore</item>
+        <item>Noorul Islam Centre For Higher Education Kanyakumari</item>
+        <item>Kakatiya University Warangal</item>
+        <item>Jawaharlal Nehru Technological University Hyderabad</item>
+        <item>Shri Ramswaroop Memorial University Barabanki</item>
+        <item>Rajiv Gandhi University Of Knowledge Technologies Hyderabad</item>
+        <item>Jawaharlal Nehru Krishi Vishwavidyalaya Jabalpur</item>
+        <item>International Institute Of Information Technology Bhubaneswar</item>
+        <item>Sant Gadge Baba Amravati University Amravati</item>
+        <item>Maharishi Markandeshwar Deemed Be University Mullana</item>
+        <item>Ansal University Gurgaon</item>
+        <item>Baddi University Of Emerging Sciences And Technology Baddi</item>
+        <item>Jayoti Vidyapeeth Womens University Jaipur</item>
+        <item>Indian Institute Of Information Technology Ranchi</item>
+        <item>Indian Institute Of Information Technology Sonipat</item>
+        <item>Mangalayatan University Aligarh</item>
+        <item>Gsfc University Vadodara</item>
+        <item>Aisect University Hazaribagh</item>
+        <item>University Of Engineering And Management Jaipur</item>
+        <item>Dr Kn Modi University Tonk</item>
+        <item>Indian Institute Of Information Technology Una</item>
+        <item>Amity University Raipur</item>
+        <item>Himachal Pradesh Technical University Hamirpur</item>
+        <item>Rajasthan Technical University Kota</item>
+        <item>Indian Institute Of Information Technology Guwahati</item>
+        <item>Jawaharlal Nehru Technological University Kakinada</item>
+        <item>Rama University Kanpur</item>
+        <item>Indian Institute Of Technology Jammu</item>
+        <item>Rajiv Gandhi University Of Knowledge Technologies Nuzvid</item>
+        <item>Career Point University Kota</item>
+        <item>Central University Of Kashmir Srinagar</item>
+        <item>Mahatma Gandhi University Nalgonda</item>
+        <item>University Of Engineering And Management Kolkata</item>
+        <item>Centurion University Of Technology And Management Paralakhemundi</item>
+        <item>Pp Savani University Surat</item>
+        <item>Mats University Raipur</item>
+        <item>Baba Mastnath University Rohtak</item>
+        <item>Shridhar University Pilani</item>
+        <item>Gauhati University Guwahati</item>
+        <item>Chitkara University Patiala</item>
+        <item>Icfai University Dehradun</item>
+        <item>Shobhit Institute Of Engineering And Technology Meerut</item>
+        <item>Jis University Kolkata</item>
+        <item>Assam Don Bosco University Guwahati</item>
+        <item>Sher E Kashmir University Of Agricultural Sciences And Technology Of Kashmir Srinagar</item>
+        <item>Amity University Gwalior</item>
+        <item>Uttar Banga Krishi Viswavidyalaya Pundibari</item>
+        <item>Swami Rama Himalayan University Dehradun</item>
+        <item>Ranchi University Ranchi</item>
+        <item>Itm University Raipur</item>
+        <item>Invertis University Bareilly</item>
+        <item>Manav Bharti University Solan</item>
+        <item>Sardar Vallabhbhai Patel University Of Agriculture And Technology Meerut</item>
+        <item>University Of Burdwan Bardhaman</item>
+        <item>Mvn University Palwal</item>
+        <item>Uka Tarsadia University Bardoli</item>
+        <item>Xavier University Bhubaneswar</item>
+        <item>Rayat Bahra University Mohali</item>
+        <item>Icfai University Tripura</item>
+        <item>Jodhpur National University Jodhpur</item>
+        <item>Pratap University Jaipur</item>
+        <item>Jai Narain Vyas University Jodhpur</item>
+        <item>Shobhit University Gangoh</item>
+        <item>Rajiv Gandhi University Of Knowledge Technologies Rk Valley Campus Kadapa</item>
+        <item>Jiwaji University Gwalior</item>
+        <item>Icfai University Jaipur</item>
+        <item>Himgiri Zee University Dehradun</item>
+        <item>Pacific University Udaipur</item>
+        <item>Indira Gandhi University Meerpur</item>
+        <item>Suresh Gyan Vihar University Jaipur</item>
+        <item>Maharaja Agrasen University Solan</item>
+        <item>Jaypee University Anoopshahr</item>
+        <item>Uttaranchal University Dehradun</item>
+        <item>Oriental University Indore</item>
+        <item>Rk University Rajkot</item>
+        <item>Raffles University Neemrana</item>
+        <item>Rnb Global University Bikaner</item>
+        <item>Indus International University Una</item>
+        <item>Krishna University Machilipatnam</item>
+        <item>Iilm University Gurugram</item>
+        <item>Icfai University Raipur</item>
+    </array>
+    <array name="polytechnicColleges">
+        <item>Aditya Institute of Technology</item>
+        <item>Ambedkar Polytechnic</item>
+        <item>Aryabhat Polytechnic</item>
+        <item>Abhigyan</item>
+        <item>Baba Hari Dass College of Pharmacy</item>
+        <item>Bhai Parmanand Institute of Business Studies</item>
+        <item>Ch. Charan Singh Polytechnic</item>
+        <item>Chhotu Ram Rural Institute of Technology</item>
+        <item>Delhi Institute of Tool Engineering</item>
+        <item>Father Agnel Polytechnic</item>
+        <item>G B.Pant Polytechnic</item>
+        <item>Guru Nanak Dev Polytechnic</item>
+        <item>Guru Tegh Bahadur Polytechnic Institute</item>
+        <item>Integrated Institute of Technology</item>
+        <item>International Polytechnic for Women</item>
+        <item>Kasturba Polytechnic for Women</item>
+        <item>Maharaja Surajmal Institute of Technology</item>
+        <item>Marathwada Institute of Technology Delhi</item>
+        <item>Meera Bai Polytechnic for Women</item>
+        <item>Pusa Polytechnic</item>
+        <item>Rao Tula Ram Polytechnic</item>
+        <item>Subramania Bharati College of Science and Technology</item>
+        <item>Tool Room and Training Centre</item>
+        <item>Vardhman Mahavir Medical college and Safdarjang Hospital</item>
+        <item>S D Polytechnic College</item>
+        <item>Karnal Institute Of Polytechnic</item>
+        <item> Shree Ganesh Polytechnic</item>
+        <item>Saraswati Institute Of Technology</item>
+        <item>Al- Falah School Of Engineering and Technology</item>
+        <item>Dr Bhimrao Ambedkar Institute Of Technology</item>
+        <item>S.D. Mewat Institute Of Engineering and Technology-Technical Campus</item>
+        <item> Krishna Polytechnic College</item>
+        <item>Darsh Institute Of Engineering And Technology</item>
+        <item>Naraini Educational And Charitable Society</item>
+        <item>S Group Of Institutions</item>
+        <item>Shaheed Captain D.K. Khola Technical Campus</item>
+        <item>Kalpi Institute Of Technology</item>
+        <item>Jind Polytechnic College</item>
+        <item>The Technological Institute Of Textile and Sciences</item>
+        <item>University Institute Of Engineering And Technology, Maharshi Dayanand University, Rohtak</item>
+        <item>Prabhu Dayal Polytechnic</item>
+        <item>Management Education And Research Institute (Meri)</item>
+        <item>Maharishi Ved Vyas Engineering College</item>
+        <item>Manav Institute Of Technology And Management</item>
+        <item>Shiv Gourakh Nath Polytechnic</item>
+        <item> N. C. College Of Engineering</item>
+        <item>Kurukshetra Institute Of Technology and Management</item>
+        <item>S D Mewat Institute Of Technology For Polytechnic</item>
+        <item>Shri Baba Mastnath Technical Campus</item>
+        <item>Prannath Parnami Institute Of Management and Technology</item>
+        <item>Kiit College Of Engineering</item>
+        <item>Bls Institute Of Engineering and Technology</item>
+        <item>Pt. L R College Of Technology- Technical Campus</item>
+        <item>Bhagwan Parshuram College Of Engineering</item>
+        <item>Dpg Polytechnic , Sector34,Gurgaon</item>
+        <item>Indology Institute Of Engg. and Tech. Seenk Panipat</item>
+        <item>Guru Nanak Polytechnic College</item>
+        <item> P.D. Memorial Polytechnic</item>
+        <item>Applied College Of Management and Engineering (Acme)</item>
+        <item>Swami Vivekanand Institute Of Technology</item>
+        <item>Deeksha Institute Of Technology</item>
+        <item>Tagore Institute Of Research and Technology</item>
+        <item>Institute Of Technology and Science</item>
+        <item>Hindu Institute Of Technology</item>
+        <item>Delhi Institute Of Technology, Management and Research</item>
+        <item> Seth Jai Parkash Polytechnic</item>
+        <item>Ravindra Polytechnic College</item>
+        <item> Krishna Polytechnic College</item>
+        <item> Rajendra Polytechnic</item>
+        <item>Delhi Institute Of Technology and Management</item>
+        <item>Vardey Devi Institute Of Engineering and Technology</item>
+        <item>Bps Mahila Polytechnic</item>
+        <item>Universal Institute Of Technology</item>
+        <item>Dalal Global Institute Of Technology</item>
+        <item> Bcm Polytechnic Raiya</item>
+        <item>Gateway Institute Of Engineering and Technology</item>
+        <item>Techno Apex Polytechnic</item>
+        <item>World College Of Technology And Management</item>
+        <item> M.D. Polytechnic</item>
+        <item>Yamuna Polytechnic For Engineering</item>
+        <item>Hsm Polyytechnic, Pathri (Panipat)</item>
+        <item>Chhotu Ram Polytechnic, Rohtak (Haryana)</item>
+        <item>Maharishi Dayanand Polytechnic</item>
+        <item>Shree Shyam Polytechnic College</item>
+        <item>Nav Nirman Sewa Samiti</item>
+        <item>S Samalkha Group Of Institutions</item>
+        <item>School Of Diploma Engineering</item>
+        <item>Metis Institute Of Polytechnic</item>
+        <item>Mahaveer Swami Institute Of Technology</item>
+        <item>World Institute Of Technology</item>
+        <item>Uklana Polytechnic and Engg. College</item>
+        <item>Tek Chand Mann College Of Engineering</item>
+        <item>Polytechnic Education and Training Institute</item>
+        <item>Government Polytechnic Ambala City</item>
+        <item>Guru Dronacharya Polytechnic</item>
+        <item>P. M. Polytechnic,Kami Road,Sonepat-131001,Haryana</item>
+        <item>Swami Devi Dyal Institute Of Engineering</item>
+        <item>Swami Divyanand Polytechnic Of Engg.</item>
+        <item>P D M Institute Of Engineering and Technology</item>
+        <item> Adarsh Polytechnic</item>
+        <item>Bharat Institute Of Technology</item>
+        <item>Institute Of Vertex Technologies</item>
+        <item>Yamuna Institute Of Enig and Technology</item>
+        <item>Bhagwan Parshuram Polytechnic</item>
+        <item>Ganpati Polytechnic For Engineering</item>
+        <item>Ganga Institute Of Technology And Management</item>
+        <item>B M Group Of Institutions</item>
+        <item>Shri Krishan Polytechnic</item>
+        <item> Sheetal Polytechnic</item>
+        <item> Dev Polytechnic College</item>
+        <item>Kalpana Chawla Govt. Polytechnic For Women</item>
+    </array>
+    <array name="subject">
+        <item>Communication Skills</item>
+        <item>Applied Mathematics -1</item>
+        <item>Engineering Drawing -1</item>
+        <item>Applied Physics</item>
+        <item>Workshop Practice -1</item>
+        <item>Applied Mathematics -2</item>
+        <item>Engineering Drawing -2</item>
+        <item>Applied Mechanics</item>
+        <item>Basics Of Information Technology</item>
+        <item>Applied Chemistry</item>
+        <item>Workshop Practice -2</item>
+        <item>Material Science</item>
+        <item>Thermal Engineering -1</item>
+        <item>Basics Of Electrical And Electronics Engineering</item>
+        <item>4. Manufacturing Technology -1</item>
+        <item>Machine Drawing -1</item>
+        <item>Environmental Studies</item>
+        <item>Workshop Practice -3</item>
+        <item>Strength Of Materials</item>
+        <item>Fluid Mechanics And Machines</item>
+        <item>Thermal Engineering -2</item>
+        <item>Machine Drawing -2</item>
+        <item>Manufacturing Technology -2</item>
+        <item>Workshop Practice -4</item>
+        <item>Theory Of Machines</item>
+        <item>Refrigeration And Air Conditioning</item>
+        <item>Inspection And Quality Control</item>
+        <item>Industrial Engg.And Management Science</item>
+        <item>Cnc Machines And Automation</item>
+        <item>Manufacturing Technology -3</item>
+        <item>Workshop Practice -5</item>
+        <item>Elective -1</item>
+        <item>Communication Skills And Personality Development</item>
+        <item>Machine Design</item>
+        <item>Metrology And Instrumentation</item>
+        <item>Operations Management</item>
+        <item>Project</item>
+        <item>Basic Electricity</item>
+        <item>Introduction To Computers</item>
+        <item>Mechanical Workshop</item>
+        <item>Electrical Machines</item>
+        <item>Electric Components And Materials</item>
+        <item>Electronic Devices And Circuits -1</item>
+        <item>Electrical And Electronics Workshop</item>
+        <item>Engineering Drawing</item>
+        <item>Principles Of Communication Engineering</item>
+        <item>Digital Electronics</item>
+        <item>Networks, Filters And Transmission Lines</item>
+        <item>Electronic Devices And Circuits -2</item>
+        <item>Computer Programming And Applications</item>
+        <item>Electronic Fabrication And Product Design</item>
+        <item>Electronic Devices And Circuits -3</item>
+        <item>Introduction To Microprocessors</item>
+        <item>Electronic Instruments And Measurements</item>
+        <item>Personal Computer Organization</item>
+        <item>Electronic Design And Drawing</item>
+        <item>Minor Project</item>
+        <item>Object Oriented Programming Using C++</item>
+        <item>Industrial Electronics And Instrumentation</item>
+        <item>Microwave Engineering</item>
+        <item>Troubleshooting And Maintenance Of Electronic Equipments</item>
+        <item>Industrial Training Report Presentation</item>
+        <item>Advanced Communication Systems</item>
+        <item>Television Engineering</item>
+        <item>Industrial Management And Entrepreneurship Development</item>
+        <item>Digital System Design</item>
+        <item>Major Project</item>
+        <item>Communication Systems</item>
+        <item>Microprocessor Based System Design</item>
+        <item>Major Project</item>
+        <item>Advance Microprocessor</item>
+        <item>Programming In Java</item>
+        <item>Elective - I</item>
+        <item>Trouble Shooting And Maintenance Of Electronic Equipments</item>
+        <item>Imaging Techniques And Equipments</item>
+        <item>Basic Medical Electronics</item>
+        <item>Medical Electronics-I</item>
+        <item>Medical Electronics-Ii</item>
+        <item>Vlsi</item>
+        <item>Bio Transducers</item>
+        <item>Ex 634 Microprocessor System Design</item>
+        <item>Ex 531 Comm. Sys.</item>
+        <item>Biomedical Informatics ?</item>
+        <item>Ex 637 Advanced Microprocessor</item>
+        <item>Multi Media Applications</item>
+        <item>Principal Automatic Control</item>
+        <item>Elements Of Electrical And Electronics Engg.</item>
+        <item>Elements Of Strength Of Materials</item>
+        <item>Basics Of Automobile Engg.</item>
+        <item>Principles Of Thermal Engg.</item>
+        <item>Manufacturing Technology</item>
+        <item>Autoshop Practice -1</item>
+        <item>Materials Science</item>
+        <item>Elements Of Fluid Mechanics</item>
+        <item>Automotive Engines</item>
+        <item>Mechanics Of Vehicle</item>
+        <item>Auto Design And Drawing</item>
+        <item>Auto Shop Practice-2</item>
+        <item>Automotive Chassis And Transmissions</item>
+        <item>Garage Equipments</item>
+        <item>Industrial Managements</item>
+        <item>Fuel And Polluition Control</item>
+        <item>Special Vehicles And Equipments</item>
+        <item>Computer Aided Drafting Lab</item>
+        <item>Auto Repair And Maintainance -1</item>
+        <item>Industrial Training</item>
+        <item>Automotive Electrical Systems And Autotronics</item>
+        <item>Transport Management And Estimation</item>
+        <item>Auto Repair And Maintainance-2</item>
+        <item>Elective</item>
+        <item>Project (Service And Production)</item>
+        <item>Elective- Automobile Air Conditioning</item>
+        <item>Mautomobile Body And Vehicle Safety Engineering</item>
+        <item>Entrenreneurship Development</item>
+        <item>Communication Skills</item>
+        <item>Engineering Drawing</item>
+        <item>Introduction To Information Technology</item>
+        <item>Workshop Practice</item>
+        <item>Applied Physics(Theory)</item>
+        <item>Basic Electronics</item>
+        <item>Electrical Engineering</item>
+        <item>Programming In C</item>
+        <item>Digital Electronics</item>
+        <item>Data Structure In C</item>
+        <item>Microprocessor</item>
+        <item>Computer Workshop-I</item>
+        <item>Object Oriented Programming</item>
+        <item>Computer Organization</item>
+        <item>Data Communication</item>
+        <item>Data Base Management System</item>
+        <item>Peripheral and Interfaces</item>
+        <item>Computer Workshop-Ii</item>
+        <item>Computer Troubleshooting and Maintenance</item>
+        <item>Computer Network</item>
+        <item>Programming In Java</item>
+        <item>Entrepreneurship Development and Management</item>
+        <item>Computer Workshop-Iii</item>
+        <item>Computer Graphics</item>
+        <item>Software Engineering</item>
+        <item>Advanced Computer System Architecture</item>
+        <item>Multimedia Application</item>
+        <item>Network Security</item>
+        <item>Major Project* (5-6 Weeks)</item>
+        <item>Web Designing</item>
+        <item>Network Technologies and Management</item>
+        <item>Language Lab (English/ French)</item>
+        <item>Customer Relation Management</item>
+        <item>Telecom Services Management</item>
+        <item>Personality Developments and Behavioral Sciences</item>
+        <item>Cyber Security and Cyber Laws</item>
+        <item>E- Commerce and M-Commerce</item>
+        <item>Advance Computer System Architecture</item>
+        <item>Communication Lab</item>
+        <item>Minor Project</item>
+        <item>Operating System</item>
+        <item>Front End Technique</item>
+        <item>Networking Fundamental</item>
+        <item>Industrial Training</item>
+        <item>Chemistry</item>
+        <item>Anatomy and Physiology-I</item>
+        <item>Clinical Microbiology –I</item>
+        <item>Clinical Haematology-I</item>
+        <item>Clinical Biochemistry-I</item>
+        <item>Communication Techniques-Ii</item>
+        <item>Anatomy and Physiology-Ii</item>
+        <item>Clinical Microbiology –Ii</item>
+        <item>Clinical Haematology-Ii</item>
+        <item>Clinical Biochemistry-Ii</item>
+        <item>Histopathology-I</item>
+        <item>Clinical Microbiology –Iii</item>
+        <item>Clinical Haematology-Iii</item>
+        <item>Clinical Biochemistry-Iii</item>
+        <item>Histopathology-Ii</item>
+        <item>E.C.G.</item>
+        <item>Clinical Microbiology –Iv</item>
+        <item>Clinical Haematology-Iv</item>
+        <item>Clinical Biochemistry-Iv</item>
+        <item>Histopathology-Iii</item>
+        <item>Blood Banking</item>
+        <item>Medical Lab Management and Ethics</item>
+        <item>Public Health and Hygiene</item>
+        <item>Common Communicable Diseases</item>
+        <item>Medical Biotechnology</item>
+        <item>Medical Lab Instruments</item>
+        <item>Computer Application</item>
+        <item>Seminar Presentation/Case Study</item>
+        <item>Surveying -1</item>
+        <item>Hydraulics</item>
+        <item>Structural Mechanics</item>
+        <item>Construction Materials</item>
+        <item>Building Construction</item>
+        <item>Civil Engineering Drawing</item>
+        <item>Water And Waste Water Engineering</item>
+        <item>Concrete Technology</item>
+        <item>Communication Technique-Ii</item>
+        <item>Analysis Of Structures</item>
+        <item>Soil And Foundation Engineering</item>
+        <item>Surveying-Ii</item>
+        <item>Estimating and Costing</item>
+        <item>Field Work/Exposure</item>
+        <item>Civil Engineering Drawing-Il</item>
+        <item>Computer Aided Design (Cad)In Civil Engineering Practice</item>
+        <item>Elements Of Rcc Design</item>
+        <item>Maintenance and Rehabilitation Of Structures</item>
+        <item>Rural Technology</item>
+        <item>Railway, Bridges And Tunnels</item>
+        <item>New and Non Renewable Source Of Energy</item>
+        <item>Town Planning</item>
+        <item>Advanced Construction Technology 99 Practical Training </item>
+        <item>Elements Of Steel Design And Drawing</item>
+        <item>Construction Management and Professional Practice </item>
+        <item>Transportation Engineering</item>
+        <item>Irrigation Engineering</item>
+        <item>Introduction To Seismic Planning and Disaster Management </item>
+        <item>Urban and Rural Sanitation</item>
+        <item>Industrial Waste Treatment</item>
+        <item>Contract Laws And Regulation</item>
+        <item>Energy Conservation Techniques In Building Construction </item>
+        <item>Watershed Management</item>
+    </array>
+    <array name="BTechBranch">
+        <item>Automobile Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Electronics and communication Engineering</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Electronics And Telecommunication Engineering</item>
+        <item>Information Technology Enabled Services And Management</item>
+        <item>Information and Technology Engineering</item>
+        <item>Mechanical Engineering</item>
+    </array>
+    <array name="polytechnicBranch">
+        <item>Architectural Assistantship</item>
+        <item>Automobile Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Computer Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Electronics and communication Engineering</item>
+        <item>Electrical And Electronics Engineering</item>
+        <item>Electronics And Telecommunication Engineering</item>
+        <item>Fashion Design</item>
+        <item>Food Technology</item>
+        <item>Garment Technology</item>
+        <item>Information Technology Enabled Services And Management</item>
+        <item>Information and Technology Engineering</item>
+        <item>Instrumentation Technology</item>
+        <item>Interior Design And Decoration</item>
+        <item>Leather Technology</item>
+        <item>Leather Technology (Footwear)</item>
+        <item>Library And Information Sciences</item>
+        <item>Mechanical Engineering</item>
+        <item>Mechanical Engineering (Refrigeration And Air Conditioning)</item>
+        <item>Mechanical Engineering (Tool And Die)</item>
+        <item> Marine Engineering</item>
+        <item>Medical Laboratory Technology</item>
+        <item>Plastic Technology</item>
+        <item>Production And Industrial Engineering</item>
+        <item>Textile Design</item>
+        <item>Textile Processing</item>
+        <item>Textile Technology (Spinning)</item>
+        <item>Textile Technology (Weaving)</item>
+        <item>Textile Technology (Knitting)</item>
+        <item>Diploma In Pharmacy</item>
+        <item>Modern Office Practice</item>
+        <item>Agriculture Technology</item>
+        <item>Business Management</item>
+        <item>Ceramic Engineering</item>
+        <item>Chemical Engg. ( Pulp And Paper)</item>
+        <item>Chemical Engineering (Spl. Paint Tech)</item>
+        <item>Chemical Engineering (Spl. Polymer Engg)</item>
+        <item>Civil Engineering (Spl Highway)</item>
+        <item>Electronics Engg. (Spl. In Power Electronics)</item>
+        <item>Finance, Accounts And Auditing</item>
+        <item>Fire Technology And Safety</item>
+        <item>General Enggineering</item>
+        <item>Knitting Technology</item>
+        <item>Medical Electronics</item>
+        <item>Omca</item>
+    </array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="none"
+        android:entries="@array/BTechCollege"
+        android:entryValues="@array/BTechCollege"
+        android:key="@string/pref_college_key"
+        android:icon="@drawable/ic_baseline_school_30"
+        android:title="@string/college"/>
+</PreferenceScreen>
