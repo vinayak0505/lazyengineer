@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <import type="android.view.View" />
+
+        <variable
+            name="news"
+            type="com.example.android.lazyengineer.news.News" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:layout_margin="4dp"
+        app:cardCornerRadius="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:padding="12dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/news_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@{news.name}"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                tools:text="MOCK TEST (GGSIPU)" />
+
+            <TextView
+                android:id="@+id/news_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="4"
+                android:text="@{news.description}"
+                android:visibility="@{news.description.empty ? View.GONE : View.VISIBLE}" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date:-" />
+
+                <TextView
+                    android:id="@+id/news_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLength="10"
+                    android:text="@{news.postdate}"
+                    tools:text="2020-05-40" />
+
+                <Space
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_weight="1" />
+
+                <Button
+                    android:id="@+id/news_source_button"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="source"
+                    android:visibility="@{news.link.empty ? View.GONE : View.VISIBLE}" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

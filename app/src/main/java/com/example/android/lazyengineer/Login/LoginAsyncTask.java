@@ -1,16 +1,20 @@
 package com.example.android.lazyengineer.Login;
 
-import com.example.android.lazyengineer.MainActivity;
-import com.example.android.lazyengineer.QueryUtils;
-import com.example.android.lazyengineer.R;
-
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.AsyncTask;
 import android.widget.TextView;
 
+import androidx.preference.PreferenceManager;
+
+import com.example.android.lazyengineer.MainActivity;
+import com.example.android.lazyengineer.Notes.QueryUtils;
+import com.example.android.lazyengineer.R;
+
 import org.json.JSONException;
+
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
@@ -18,9 +22,10 @@ import java.net.URL;
 
 public class LoginAsyncTask extends AsyncTask<String, Void, String> {
     String jsonResponse;
-    private Context context;
+    Context context;
+    String username;
 
-    public LoginAsyncTask (Context context){
+    public LoginAsyncTask(Context context) {
         this.context = context;
     }
 
@@ -35,17 +40,16 @@ public class LoginAsyncTask extends AsyncTask<String, Void, String> {
         try {
             HttpURLConnection urlConnection = (HttpURLConnection) url.openConnection();
             int responseCode = urlConnection.getResponseCode();
-            if (responseCode == 200){
+            if (responseCode == 200) {
                 jsonResponse = QueryUtils.makeHttpRequest(url);
-                if(LoginUtils.parseLoginDetail(jsonResponse)){
-                    Login.check = true;
+                username = LoginUtils.parseLoginDetail(jsonResponse);
+                if (username != null) {
                     return "Login successful";
                 }
-            }
-            else if(responseCode == 404){
+            } else if (responseCode == 404) {
                 return "Wrong user name or password";
             }
-        }catch (IOException | JSONException io){
+        } catch (IOException | JSONException io) {
             return "unable to connect to internet";
         }
         return null;
@@ -55,12 +59,15 @@ public class LoginAsyncTask extends AsyncTask<String, Void, String> {
     @Override
     protected void onPostExecute(String s) {
         super.onPostExecute(s);
-        TextView txt = (TextView)((Activity) context).findViewById(R.id.Notice);
+        TextView txt = (TextView) ((Activity) context).findViewById(R.id.Notice);
         txt.setText(s);
-        if(s.equals("Login successful")) {
+        if (s.equals("Login successful")) {
+
+            SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(context);
+            sharedPreferences.edit().putString("logout", username).apply();
+
             Intent downloadIntent = new Intent(context, MainActivity.class);
             context.startActivity(downloadIntent);
-            Login.status = false;
             Login.activity.finish();
         }
     }

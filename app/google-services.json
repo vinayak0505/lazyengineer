@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180115388418",
+    "firebase_url": "https://btemp-2f4e6.firebaseio.com",
+    "project_id": "btemp-2f4e6",
+    "storage_bucket": "btemp-2f4e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180115388418:android:dffc9ac19d4566a72a0f1b",
+        "android_client_info": {
+          "package_name": "com.example.android.lazyengineer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180115388418-q12j00upal2dte0stuefhqnsaocbgtq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpGlsLKjBpK0fmBcfRHCu-CGMs6FSxRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180115388418-q12j00upal2dte0stuefhqnsaocbgtq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,24 +5,16 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.KeyEvent;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-
-import com.example.android.lazyengineer.MainActivity;
-import com.example.android.lazyengineer.Notes;
 import com.example.android.lazyengineer.R;
 import com.example.android.lazyengineer.signup.signup;
 
 
 public class Login extends AppCompatActivity {
 
-    public static boolean check = false;
-    private String TAG = "Login2";
-    public static boolean status = false;// check for login activity status
     public static String text;
     public static Activity activity;
 
@@ -45,6 +37,8 @@ public class Login extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Login.this, signup.class);
+                startActivity(intent);
+                finish();
             }
         });
     }
@@ -56,5 +50,14 @@ public class Login extends AppCompatActivity {
         EditText password = (EditText) findViewById(R.id.CheckPassword);
         String uri = "https://lazyengineer.tech/leapi/login/?username=" + userName.getText() + "&password=" + password.getText();
         new LoginAsyncTask(this).execute(uri);
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        Intent a = new Intent(Intent.ACTION_MAIN);
+        a.addCategory(Intent.CATEGORY_HOME);
+        a.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(a);
     }
 }
