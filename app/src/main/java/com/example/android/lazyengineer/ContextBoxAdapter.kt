@@ -9,8 +9,9 @@ class ContextBoxAdapter(
         private val data: List<BoxComponents>,
         private val listener: BoxClickListener
 ) : RecyclerView.Adapter<ContextBoxAdapter.BoxContentViewHolder>() {
-    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int):
-            BoxContentViewHolder = BoxContentViewHolder.from(parent)
+
+    override fun onCreateViewHolder(parent: ViewGroup, viewType: Int) =
+            BoxContentViewHolder.from(parent)
 
     override fun getItemCount() = data.size
 

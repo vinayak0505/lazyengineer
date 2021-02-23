@@ -6,9 +6,9 @@ import androidx.lifecycle.ViewModel
 import com.example.android.lazyengineer.util.Coroutines
 import kotlinx.coroutines.Job
 
-class NewsViewModel(
-        private val repository: NewsRepository
-) : ViewModel() {
+class NewsViewModel(private val repository: NewsRepository)
+    : ViewModel() {
+
     private lateinit var job: Job
     private val _news = MutableLiveData<NewsResponse>()
     val news: LiveData<NewsResponse>
@@ -23,6 +23,7 @@ class NewsViewModel(
 
     override fun onCleared() {
         super.onCleared()
-        if(::job.isInitialized) job.cancel()
+        if (::job.isInitialized) job.cancel()
     }
+
 }

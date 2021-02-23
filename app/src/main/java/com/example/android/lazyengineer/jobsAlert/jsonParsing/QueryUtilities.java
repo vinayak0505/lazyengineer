@@ -1,7 +1,9 @@
-package com.example.android.lazyengineer.JobsAlert.jsonParsing;
+package com.example.android.lazyengineer.jobsAlert.jsonParsing;
 
 import android.text.TextUtils;
 import android.util.Log;
+
+import com.example.android.lazyengineer.jobsAlert.Jobs;
 
 import org.json.JSONArray;
 import org.json.JSONException;

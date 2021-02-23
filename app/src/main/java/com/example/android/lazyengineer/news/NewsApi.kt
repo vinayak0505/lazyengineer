@@ -1,5 +1,6 @@
 package com.example.android.lazyengineer.news
 
+import com.example.android.lazyengineer.ui.syllabus.SyllabusObject
 import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -9,6 +10,9 @@ interface NewsApi {
 
     @GET("whatsnews?page=2")
     suspend fun getNews() : Response<NewsResponse>
+
+    @GET("btechsyll")
+    suspend fun getBTechSyllabus() : Response<SyllabusObject>
 
     companion object{
         operator fun invoke() : NewsApi {

@@ -47,4 +47,8 @@
     <string name="website">website</string>
     <string name="website_link">https://lazyengineer.tech</string>
     <string name="email_link">info.lazyengineer@gmail.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_picture">profile picture</string>
+    <string name="syllabus_icon">syllabus icon</string>
 </resources>

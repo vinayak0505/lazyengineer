@@ -41,7 +41,6 @@ class NewsFragment : Fragment() {
                 it.adapter = NewsAdapter(requireContext(),news.results)
             }
 
-
         })
     }
 

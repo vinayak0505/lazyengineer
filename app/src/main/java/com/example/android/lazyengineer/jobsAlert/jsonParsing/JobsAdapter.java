@@ -1,4 +1,4 @@
-package com.example.android.lazyengineer.JobsAlert.jsonParsing;
+package com.example.android.lazyengineer.jobsAlert.jsonParsing;
 
 import android.content.Context;
 import android.content.Intent;
@@ -13,6 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.example.android.lazyengineer.R;
+import com.example.android.lazyengineer.jobsAlert.Jobs;
 
 import java.util.List;
 

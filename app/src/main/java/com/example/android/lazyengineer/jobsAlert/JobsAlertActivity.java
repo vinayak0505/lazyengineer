@@ -1,9 +1,8 @@
-package com.example.android.lazyengineer.JobsAlert;
+package com.example.android.lazyengineer.jobsAlert;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.widget.ContentLoadingProgressBar;
 import androidx.loader.app.LoaderManager;
 import androidx.loader.content.Loader;
 
@@ -12,14 +11,12 @@ import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.FrameLayout;
 import android.widget.ListView;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.android.lazyengineer.JobsAlert.jsonParsing.JobsAdapter;
-import com.example.android.lazyengineer.JobsAlert.jsonParsing.Jobs;
-import com.example.android.lazyengineer.JobsAlert.jsonParsing.JobsLoader;
+import com.example.android.lazyengineer.jobsAlert.jsonParsing.JobsAdapter;
+import com.example.android.lazyengineer.jobsAlert.jsonParsing.JobsLoader;
 import com.example.android.lazyengineer.R;
 
 import java.net.MalformedURLException;

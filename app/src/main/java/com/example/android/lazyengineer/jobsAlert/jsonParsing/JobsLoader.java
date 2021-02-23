@@ -1,9 +1,12 @@
-package com.example.android.lazyengineer.JobsAlert.jsonParsing;
+package com.example.android.lazyengineer.jobsAlert.jsonParsing;
 
 import android.content.Context;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.loader.content.AsyncTaskLoader;
+
+import com.example.android.lazyengineer.jobsAlert.Jobs;
+
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;

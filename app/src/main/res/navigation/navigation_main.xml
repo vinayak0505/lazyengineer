@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigationMain"
+    app:startDestination="@id/startingFragment">
+
+    <fragment
+        android:id="@+id/startingFragment"
+        android:name="com.example.android.lazyengineer.ui.startingPage.StartingFragment"
+        android:label="fragment_starting"
+        tools:layout="@layout/fragment_starting">
+        <action
+            android:id="@+id/action_startingFragment_to_newsFragment"
+            app:destination="@id/newsFragment" />
+        <action
+            android:id="@+id/action_startingFragment_to_jobsAlertActivity"
+            app:destination="@id/jobsAlertActivity" />
+        <action
+            android:id="@+id/action_startingFragment_to_questionPaperActivity"
+            app:destination="@id/questionPaperActivity" />
+        <action
+            android:id="@+id/action_startingFragment_to_syllabusBTechFragment"
+            app:destination="@id/syllabusBTechFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.example.android.lazyengineer.news.NewsFragment"
+        android:label="news_frament_fragment"
+        tools:layout="@layout/news_frament_fragment" />
+    <activity
+        android:id="@+id/jobsAlertActivity"
+        android:name="com.example.android.lazyengineer.jobsAlert.JobsAlertActivity"
+        android:label="activity_jobs_alert"
+        tools:layout="@layout/activity_jobs_alert" />
+    <activity
+        android:id="@+id/questionPaperActivity"
+        android:name="com.example.android.lazyengineer.questionPaper.QuestionPaperActivity"
+        android:label="activity_questoin_paper"
+        tools:layout="@layout/activity_questoin_paper" />
+    <fragment
+        android:id="@+id/syllabusBTechFragment"
+        android:name="com.example.android.lazyengineer.ui.syllabus.SyllabusBTechFragment"
+        android:label="SyllabusBTechFragment" />
+</navigation>

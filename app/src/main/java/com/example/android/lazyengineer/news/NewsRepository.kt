@@ -5,4 +5,6 @@ class NewsRepository(
 ):SafeApiRequest() {
 
     suspend fun getNews() = apiRequest { api.getNews() }
+
+    suspend fun getBTechSyllabus() = apiRequest { api.getBTechSyllabus() }
 }
