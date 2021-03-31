@@ -1,6 +1,7 @@
 # lazyengineer<br>
 I am proud to annouce i am starting my own service for students to help and grow<br>
 lazy engineer is app that will allow you to get notes, notice , scholeships, job opportunity that will be upload by students like you only.<br>
+It will provide the platform in which the user and content uploader with be the user only, the students who will read notes will see addverticements which will be used to paid to the ones who uploades the content, so the the mmaximum people and professor can can take full advantage of it.<br>
 wright now my focus is to shit what i have created to shift to mvvm and kotlin(like all the new stuff)<br>
 you can download the files are the will be saved in the loacal stoage and you will be able to open them next time without downloading it again.<br>
 This is also available as an online website https://lazyengineer.tech/
