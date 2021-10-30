@@ -7,7 +7,7 @@
 
         <variable
             name="syllabus"
-            type="com.example.android.lazyengineer.ui.syllabus.Result" />
+            type="com.example.android.lazyengineer.syllabus.Result" />
 
     </data>
 

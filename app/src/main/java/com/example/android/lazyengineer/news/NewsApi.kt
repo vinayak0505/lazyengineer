@@ -1,6 +1,6 @@
 package com.example.android.lazyengineer.news
 
-import com.example.android.lazyengineer.ui.syllabus.SyllabusObject
+import com.example.android.lazyengineer.syllabus.SyllabusObject
 import retrofit2.Response
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

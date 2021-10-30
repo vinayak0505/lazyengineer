@@ -32,7 +32,6 @@ class NewsFragment : Fragment() {
         factory = NewsViewModelFactory(repository)
         viewModel = ViewModelProviders.of(this,factory).get(NewsViewModel::class.java)
 
-        viewModel.getNews()
 
         viewModel.news.observe(viewLifecycleOwner, Observer{ news->
             recycler_view_news.also{
@@ -42,6 +41,7 @@ class NewsFragment : Fragment() {
             }
 
         })
+        viewModel.getNews()
     }
 
 }

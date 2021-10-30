@@ -40,6 +40,6 @@
         tools:layout="@layout/activity_questoin_paper" />
     <fragment
         android:id="@+id/syllabusBTechFragment"
-        android:name="com.example.android.lazyengineer.ui.syllabus.SyllabusBTechFragment"
+        android:name="com.example.android.lazyengineer.syllabus.SyllabusBTechFragment"
         android:label="SyllabusBTechFragment" />
 </navigation>

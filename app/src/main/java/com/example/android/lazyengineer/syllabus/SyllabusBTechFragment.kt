@@ -1,4 +1,4 @@
-package com.example.android.lazyengineer.ui.syllabus
+package com.example.android.lazyengineer.syllabus
 
 import androidx.lifecycle.ViewModelProvider
 import android.os.Bundle
@@ -6,7 +6,6 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.example.android.lazyengineer.R
 import com.example.android.lazyengineer.databinding.FragmentSyllabusBTechBinding
 
 class SyllabusBTechFragment : Fragment() {

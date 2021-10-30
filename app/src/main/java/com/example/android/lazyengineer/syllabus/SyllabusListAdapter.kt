@@ -1,4 +1,4 @@
-package com.example.android.lazyengineer.ui.syllabus
+package com.example.android.lazyengineer.syllabus
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

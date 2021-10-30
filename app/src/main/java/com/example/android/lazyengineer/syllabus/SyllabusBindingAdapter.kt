@@ -1,4 +1,4 @@
-package com.example.android.lazyengineer.ui.syllabus
+package com.example.android.lazyengineer.syllabus
 
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
